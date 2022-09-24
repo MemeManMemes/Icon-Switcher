@@ -6,6 +6,7 @@ echo "Attempting to find $var3..."
 if test -f $var3; then
 	echo "$var3 found"
 	sudo cp -f $var3 /usr/bin
+	sudo chmod 777 /usr/bin/iconswitch
 	echo "Made a copy to /usr/bin, you may now run iconswitch from the terminal"
 else
 	echo "$var3 not found, please re-install from github"
