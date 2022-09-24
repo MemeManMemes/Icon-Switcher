@@ -1,3 +1,4 @@
+# DO NOT DOWNLOAD YET, BASH SCRIPT DOES NOT WORK AND 32-bit IS NOT UPDATED
 # iconswitch BETA
 This is a small program that gives you availability to change out your system icons via the sudo command.  This was meant to be practice for making "official" github projects with licenses and other github - exclusive files.
 --------
