@@ -3,7 +3,7 @@ red=$'\e[1;31m'
 green=$'\e[1;32m'
 blue=$'\e[1;34m'
 v0=$(dirname "${BASH_SOURCE[0]}")
-v1="/Source/iconswitch"
+v1="/32-bit/iconswitch"
 iconvar="$v0$v1"
 echo "Testing to see if $iconvar exists..."
 if test -f "$iconvar"
