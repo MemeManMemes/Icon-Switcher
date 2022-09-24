@@ -8,8 +8,8 @@ Step 3) Run this file with elevated privileges
 Step 4) You are good to go!  You should now be able to run iconswitch from the terminal
 --------
 ## How to use
-The iconswitch template looks like this
-**sudo | iconswitch | operating system | iconswitch argument**
+The iconswitch template looks like this:\n
+**sudo | iconswitch | operating system | iconswitch argument**\n
 There are two types of supported operating systems: deb and pi
 deb stands for the Debian operating system and will change icons per the Debian file system
 pi stands for the Raspbian operating system and will changes icons per the Raspbian file system
